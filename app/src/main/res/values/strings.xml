@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PeakApp</string>
+    <string name="first_name_hint">First Name</string>
+    <string name="last_name_hint">Last Name</string>
+    <string name="nickname_hint">Nickname (Optional)</string>
+    <string name="age_hint">Age</string>
+    <string name="gender_hint">Gender</string>
+    <string name="country_hint">Country</string>
+    <string name="address_hint">Address</string>
+    <string name="register_button_label">Register</string>
+</resources>
